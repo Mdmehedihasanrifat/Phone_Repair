@@ -1,0 +1,22 @@
+nav{
+
+    background: #202625 !important;
+    font-size: large;
+}
+#navbarNav{
+
+    margin-left: 50%;
+}
+.nav-link{
+
+
+    float: left;
+
+    color:white!important;
+
+
+}
+#btnL,#btnLO{
+    margin-top: 14%;
+    font-size: large;
+}
